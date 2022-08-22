@@ -7,4 +7,5 @@ https://developer.apple.com/documentation/developertoolssupport/librarycontentpr
 
 
 ## TODO
-Look into the .task modifier and ansync sequence
+[] Look into the .task modifier and ansync sequence
+[] watch Discover concurrency in SwiftUI
